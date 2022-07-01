@@ -1,0 +1,2 @@
+# kodluyoruzJavascriptOdev
+www.patika.com
